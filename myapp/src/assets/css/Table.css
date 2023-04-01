@@ -1,0 +1,18 @@
+.payroll_table {
+    position: relative;
+}
+.option {
+    width: 50%;
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.option_title {
+    margin-right: 10px;
+}
+.option-item {
+    display: flex;
+    align-items: center;
+}

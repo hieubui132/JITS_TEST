@@ -1,0 +1,29 @@
+.app .help {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  margin-top: 25px;
+}
+.app .help img {
+  width: 100%;
+}
+.app .help p {
+  word-wrap: break-word;
+  line-height: 1rem;
+}
+.app .help button {
+  width: 50%;
+  height: 30px;
+  background-color: aqua;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.app .help button:hover {
+  background-color: rgb(12, 224, 224);
+}
+
+.ant-layout-header {
+  padding-inline: 0px !important;
+}

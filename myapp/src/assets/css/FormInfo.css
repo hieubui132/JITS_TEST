@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.form-group {
+    width: 50%;
+}
+.form-right {
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 20%;
+}
+.ant-form-item-label {
+    text-align: start !important;
+}
+.ant-form-item {
+    margin-bottom: 5px !important;
+}
+.upload-btn {
+    margin-top: 10px;
+}
